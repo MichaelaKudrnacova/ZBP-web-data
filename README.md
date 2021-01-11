@@ -5,3 +5,5 @@ Pro každý ukazatel prezentovaný na webu je dostupný samostatných soubor .xl
 - list pocetR: počty respondentů s platnou hodnotou v daném ukazateli celkově a v rámci jednotlivých skupin
 
 Názvy souborů s ukazateli a jejich číslování odpovídají názvům témat a jejich řazení na webu zivotbehempandemie.cz
+
+Soubory jsou aktualizovány při publikaci výsledků z nové vlny šetření. Poslední aktualizace 12. 1. 2021.
