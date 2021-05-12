@@ -6,4 +6,4 @@ Pro každý ukazatel prezentovaný na webu je dostupný samostatných soubor .xl
 
 Názvy souborů s ukazateli a jejich číslování odpovídají názvům témat a jejich řazení na webu zivotbehempandemie.cz
 
-Soubory jsou aktualizovány při publikaci výsledků z nové vlny šetření. Poslední aktualizace 7. 4. 2021.
+Soubory jsou aktualizovány při publikaci výsledků z nové vlny šetření. Poslední aktualizace 11. 5. 2021.
